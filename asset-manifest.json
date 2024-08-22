@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Point-game/static/css/main.ff869fee.css",
+    "main.js": "/Point-game/static/js/main.e5e9e0ca.js",
+    "static/js/453.cfc30f56.chunk.js": "/Point-game/static/js/453.cfc30f56.chunk.js",
+    "index.html": "/Point-game/index.html",
+    "main.ff869fee.css.map": "/Point-game/static/css/main.ff869fee.css.map",
+    "main.e5e9e0ca.js.map": "/Point-game/static/js/main.e5e9e0ca.js.map",
+    "453.cfc30f56.chunk.js.map": "/Point-game/static/js/453.cfc30f56.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff869fee.css",
+    "static/js/main.e5e9e0ca.js"
+  ]
+}
